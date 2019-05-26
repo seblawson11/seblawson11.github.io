@@ -2,7 +2,7 @@ title: Mind Minutes
 description: Less bloggy than a blog, more bloggy than twitter
 author: Seb Lawson
 github: https://github.com/seblawson11
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+about: eternally curious.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://seblawson.github.io"
+url: "https://seblawson11.github.io/seblawson.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
