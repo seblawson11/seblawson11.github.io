@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In place of politics"
+title:  "In Place of Politics"
 date:   2018-09-04
 categories: [politics]
 ---
