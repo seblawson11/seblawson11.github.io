@@ -5,7 +5,7 @@ date:   2019-06-25
 categories: [philosophy]
 ---
 
-#The Meditations of Marcus Aurelius 
+<h1>The Meditations of Marcus Aurelius</h1>
 
 ##On our relationship with humanity 
 
