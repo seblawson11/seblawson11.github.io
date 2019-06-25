@@ -5,9 +5,7 @@ date:   2019-06-25
 categories: [philosophy]
 ---
 
-<h1>The Meditations of Marcus Aurelius</h1>
-
-<h2>On our relationship with humanity<h2> 
+<h2>On our relationship with humanity</h2> 
 
 > *We were born for cooperation. So to work in opposition to one another is against nature: and anger or rejection is opposition*
 
