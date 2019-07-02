@@ -6,6 +6,6 @@ permalink: /about/
 
 Less bloggy than a blog, more bloggy than twitter
 
-<a href="/_posts/final-copy.pdf" download>
+<a href="/_posts/final-copy.pdf" download></a>
 
 email: 

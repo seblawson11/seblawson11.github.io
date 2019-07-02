@@ -12,9 +12,10 @@ The collection of writings are filled with eternal wisdom, and each reader will 
 
 Looking atavistically the evidence seems to point to the fact that humans are intrinsically social beings. In Economics their has been a push by Raworth among others to remove ourselves from the image of homo economicus to an image of economic agents thriving from interaction with our fellow human beings.
 
-> *Men are born for the sake of eachother. So either teach or tolerate* 
 
 > *Have I done something for the common good, then I too have benefitted*
+
+This seems very applicable for environmental protection or sustainable habits: it should not be considered an altruistic deed because it is benefitting yourself so should not be considered a virtue but a case of rational decision-making.
 
 > *I have often wondered how it is that everyone loves himself more than anyone else, but rates his own judgement of himself below that of others*
 
