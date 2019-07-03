@@ -8,14 +8,17 @@ The collection of writings are filled with eternal wisdom, and each reader will 
  
  While it was rare to find a passage not appropriate for the 21st century I have picked out a few passages that particularly struck a chord:
 
-> *We were born for cooperation. So to work in opposition to one another is against nature: and anger or rejection is opposition*
+> *We were born for cooperation... So to work in opposition to one another is against nature: and anger or rejection is opposition* Book 2
 
 Looking atavistically the evidence seems to point to the fact that humans are intrinsically social beings. In Economics their has been a push by Raworth among others to remove ourselves from the image of homo economicus to an image of economic agents thriving from interaction with our fellow human beings.
 
+> *When someone does you some wrong, you should consider immediately what judgement of good or evil led him to wrong you* Book 7
 
-> *Have I done something for the common good, then I too have benefitted*
+I Believe Bill Clinton goes through a similar thought process when he encounters someone clearly irked or belligerent, about what may have proceeded the encounter to have made them in such a mood. You should think what is it that I may have done to have made this person feel the need to do wrong, if the answer is nothing then all you can do is act in response to the present. Reason must guide you, not retaliation. As is stated beforehand in the same book *For a rational being, to act in accordance with nature is also to act in accordance with reason* 
+
+> *Have I done something for the common good? Then I too have benefitted* Book 11
 
 This seems very applicable for environmental protection or sustainable habits: it should not be considered an altruistic deed because it is benefitting yourself so should not be considered a virtue but a case of rational decision-making.
 
-> *I have often wondered how it is that everyone loves himself more than anyone else, but rates his own judgement of himself below that of others*
+> *I have often wondered how it is that everyone loves himself more than anyone else, but rates his own judgement of himself below that of others* Book 12 
 
