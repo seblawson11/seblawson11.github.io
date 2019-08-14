@@ -16,15 +16,11 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
       link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
+      link: "#"
+    - icon: fa-twitter
       link: "#"
 
 share:
@@ -36,8 +32,6 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
