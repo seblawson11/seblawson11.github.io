@@ -4,5 +4,4 @@ title:  "The Internet and Political Equality (dissertation)"
 date:   2019-04-21
 categories: [politics, technology]
 ---
-
-Download a copy <a href="/posts/final-copy.pdf">here</a>
+[download this](/posts/final-copy.pdf)
