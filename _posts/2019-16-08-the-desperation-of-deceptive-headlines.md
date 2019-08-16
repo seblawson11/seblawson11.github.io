@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The desperation of deceptive headlines"
+title:  "The Desperation of Deceptive Headlines"
 date:   2019-08-16
 categories: [politics]
 ---
