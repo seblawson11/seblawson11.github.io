@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Lessons from the Meditations of Marcus Aurelius"
 date:   2019-06-25
