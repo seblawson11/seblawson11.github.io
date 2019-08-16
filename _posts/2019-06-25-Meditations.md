@@ -21,4 +21,4 @@ I Believe Bill Clinton goes through a similar thought process when he encounters
 This seems very applicable for environmental protection or sustainable habits: it should not be considered an altruistic deed because it is benefitting yourself so should not be considered a virtue but a case of rational decision-making.
 
 > *I have often wondered how it is that everyone loves himself more than anyone else, but rates his own judgement of himself below that of others*  (Book 12) 
-
+-->
