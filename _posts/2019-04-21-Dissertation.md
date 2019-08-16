@@ -4,8 +4,6 @@ title:  "The Internet and Political Equality (dissertation)"
 date:   2019-04-21
 categories: [politics, technology]
 ---
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Dissertation</title>
@@ -14,3 +12,4 @@ categories: [politics, technology]
 <a href="/_posts/final-copy.pdf">Here</a>
 </body>
 </html>
+
