@@ -5,3 +5,4 @@ date:   2019-04-21
 categories: [politics, technology]
 ---
 [download this](/_posts/final-copy.pdf)
+<a href="/final-copy.pdf" download>this</a>
