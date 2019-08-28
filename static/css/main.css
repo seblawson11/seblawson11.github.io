@@ -38,6 +38,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.author-name {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blue;
+}
+
 /* Layout */
 .main-layout {
   background: #fff;
