@@ -40,8 +40,9 @@ a:hover {
 
 .author-name {
   text-decoration-line: underline;
-  text-decoration-style: wavy;
+  text-decoration-style: solid;
   text-decoration-color: #2C4A8E;
+  font-family: 'Gochi Hand', cursive;
 }
 
 /* Layout */
