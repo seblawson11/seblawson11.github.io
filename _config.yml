@@ -28,8 +28,8 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: My Projects
-      url: /projects/
+    - text: Contact
+      url: /contact/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
