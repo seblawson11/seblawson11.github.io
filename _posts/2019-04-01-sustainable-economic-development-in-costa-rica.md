@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assessing the impact of reforestation and renewable energy on economic development in Costa Rica (essay)"
+title:  "The economic impact of reforestation and renewable energy in Costa Rica (essay)"
 date:   2019-04-01
 categories: [economics, sustainability]
 ---
