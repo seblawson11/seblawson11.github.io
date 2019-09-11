@@ -16,11 +16,11 @@ collections:
 
 social:
     - icon: fa-linkedin
-      link: "#"
+      link: "www.linkedin.com/in/seb-lawson-3b13ab140"
     - icon: fa-github
       link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/SebLawson11"
 
 share:
   twitter_username: github.io
