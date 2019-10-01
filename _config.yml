@@ -1,10 +1,10 @@
 title: Mind Minutes
 description: Less bloggy than a blog, more bloggy than twitter.
 github: https://github.com/seblawson11
-about: personal website and a collection of writings guided by curiosity.
+about: collection of writings.
 author: Mind Minutes
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/image.jpg
+avatar_url: /static/img/profile-img.jpg
 
 enableTags: true
 tagarray: []
@@ -28,7 +28,7 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: Projects  
+    - text: Projects
       url: /projects/
 
 url: "https://seblawson11.github.io/"
