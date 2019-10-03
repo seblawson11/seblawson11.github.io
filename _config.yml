@@ -30,6 +30,8 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
+    - text: contact
+      url: /contact/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
