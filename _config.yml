@@ -23,8 +23,14 @@ social:
     - icon: fa-twitter
       link: "https://twitter.com/SebLawson11"
 
+call_to_actions:
+  - Contact
+  - Advice
+
 share:
   twitter_username: github.io
+
+
 
 urls:
     - text: About
