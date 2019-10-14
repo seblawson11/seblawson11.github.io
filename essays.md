@@ -4,7 +4,7 @@ title: Essays
 permalink: /essays/
 ---
 
-<div id="home">
+<div id="Essays">
   <h1>Posts</h1>
   <hr />
 
@@ -13,3 +13,5 @@ permalink: /essays/
       <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
+
+</div>
