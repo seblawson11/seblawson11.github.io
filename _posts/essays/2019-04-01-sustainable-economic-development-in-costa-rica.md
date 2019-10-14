@@ -3,6 +3,7 @@ layout: post
 title:  "The economic impact of reforestation and renewable energy in Costa Rica (essay)"
 date:   2019-04-01
 categories: [economics, sustainability]
+tags: {essay}
 ---
 
 
