@@ -37,8 +37,6 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
-    - text: Essays
-    - url: /essays/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
