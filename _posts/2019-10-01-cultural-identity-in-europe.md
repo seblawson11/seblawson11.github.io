@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cultural identity: a brief opinion of why Europe is less worse than you think"
+title:  "Cultural Identity: a brief opinion of why Europe is less worse than you think"
 date:   2019-10-01
 categories: [politics]
 ---
