@@ -12,6 +12,16 @@ layout: default
   </span>
 {% endif %}
 
+<span class="time-to-read">
+    {% capture read_time %}
+    {{ page.content | number_of_words | divided_by: 180 }}
+    {% endcapture %}
+    {% if read_time != '0' %}
+      {{ read_time }}
+    {% else %}
+      1
+    {% endif %} min read
+</span>
 <div class="content">
   <div class="post">{{ content }}</div>
   {% include share-page.html %}
