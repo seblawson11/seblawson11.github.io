@@ -16,12 +16,11 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/seb-lawson-3b13ab140/"
-    - icon: fa-github
-      link: "#"
     - icon: fa-twitter
       link: "https://twitter.com/SebLawson11"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/seb-lawson-3b13ab140/"
+
 
 call_to_actions:
   - Contact
