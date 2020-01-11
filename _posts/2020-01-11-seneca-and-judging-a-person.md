@@ -6,7 +6,7 @@ categories: [philosophy]
 ---
 
 
-<blockquote> “Each man has a character of his own choosing; it is chance or fate that decides his choice of job.” </blockquote>- Seneca 
+<blockquote> “Each man has a character of his own choosing; it is chance or fate that decides his choice of job.” - Seneca </blockquote>
 
 Seneca, whilst he is talking contextually about slaves, is determined to judge those individuals by the nature of their character and not by their occupation. While determinism in career may not be as readily apparent nowadays in the western world, there is still a lot to be gained from what Seneca has to say here. The notion that each of us can influence our own character is paramount. There are of course outliers such as a psychopath whereby a tough childhood, through little fault of their own, may have their mind in shutdown and their character therefore immutably troubled. When it comes to occupational achievement however, a lot of this is down to circumstance and randomness. It is a harmful trend to pretend success in work is entirely meritocratic and thus believe it a good metric to assume a noble profession means they are a noble person. We are missing out on unravelling what really makes a person interesting- the set of qualities and memories that form their character. 
 
@@ -15,4 +15,4 @@ Many people these days feel a little anxious about the kind of job they will end
  Instead of asking people what their job is, perhaps we should instead be asking what type of person they are. We love to categorise people as it helps us discern who people are through mystical haze of the individual identity. How we frame someone’s character or decision-making can be a lot more sympathetic if we attach it to the person themselves rather than attaching it to their job. We feel we know these people and therefore justify the barrage of vices we label them with but the truth is that we can never truly understand another person and their complexities. The best we can do to understand another person is by realising everyone is a bit anxious, everyone is a bit lost and no one really knows what they are doing. By this you are likely to find a greater degree of communion with those around you rather than through the more menial task of attaching personality to profession. Just because someone has a job and says they enjoy it doesn’t mean all they have it all figured out, they may in fact be praying you don’t ask them why because they don’t have an answer other than its an easier reply. People are so much more than their business card and the moment this is realised the less pressure people will be under when finding it. 
 
 
-<blockquote>“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment”</blockquote> – Ralph Waldo Emerson
+<blockquote>“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment” – Ralph Waldo Emerson</blockquote> 
