@@ -2,7 +2,7 @@
 layout: post
 title:  "The Therapy of Nature"
 date:   2019-12-13
-categories: [philosophy]
+categories: [philosophy, travel]
 ---
 
 The story goes that if you are a rocket scientist in the real world (highly unlikely) then you will attract insurmountable attention from those around you. At a party you are the topic of conversation, people toast to your noble profession with unnerving sincerity. On the other hand if you are a call-centre worker then people may awkwardly exclaim a polite excitement with their voice, whilst their face remains frozen from the panic-inducing reality at being stuck at a party with no work-related questions to ask (of course we should ideally live in a world where people are not defined by their business cards but we are unfortunately yet to make this mature transition). Now if you were to take those two individuals and place them into nature you will get a very different response. Well in fact you get no response at all because nature doesn’t care. The call-centre worker becomes a human and the rocket scientist becomes a human, both may be genuinely interesting to the other person, but to nature the whims and idiosyncrasies of both individuals are an irrelevance. 

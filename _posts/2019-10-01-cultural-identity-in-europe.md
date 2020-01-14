@@ -2,7 +2,7 @@
 layout: post
 title:  "Cultural Identity: a brief opinion of why Europe is less worse than you think"
 date:   2019-10-01
-categories: [politics]
+categories: [politics, travel]
 ---
 
 Away from Amsterdam’s eclectic centre a silver-haired local is walking his young dog alongside the canal. He is dressed in Cargo shorts and an orange polo shirt, the warm evening has stretched on into the night. The canal water, more peaceful by night, seems oblivious to the fact that its Saturday evening in Amsterdam. The man acknowledges passers-by with fresh eyes and a gentle smile, no matter how familiar their gaze. He had lived along that canal most his adult life and yet his appreciation of its majesty has barely wavered. Before he returns to his home he takes a seat on a nearby bench, a pit stop on his evening routine; a moment of reflection before the young pup became irritable. The bench he decided to occupy on this particularly warm evening, was placed within a multicultural congregation of youthful students and travellers. People were radically different and some just different enough, and yet were sharing stories, and exchanging morals and imperfections without aggravation or insecurity. The local man sat within this brethren of youth soon joined in the conversation with both intrigue and insight. His locality made him outnumbered but this only made him more excited to converse, perhaps because he realised that the scene unfolding all around him was still undoubtedly Amsterdam, and his city had made all these people come together.

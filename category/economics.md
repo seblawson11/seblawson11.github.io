@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: economics
-title: economics
+title: Economics
 permalink: /category/economics
 ---
