@@ -6,7 +6,9 @@ categories: [politics, technology]
 tags: {essay}
 ---
 
-You can download a copy of my Dissertation that looks at the relationship between the internet and political equality in the democratic process <a href="/final-copy.pdf" download>here.</a> A copy of the abstract can be found below. 
+You can download a copy of my Dissertation that explores the relationship between the internet and political equality in the democratic process <a href="/final-copy.pdf" download>here.</a> A copy of the abstract can be found below. 
+
+n.b updated version to be completed
 
 <br>
 
