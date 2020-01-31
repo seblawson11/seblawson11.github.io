@@ -6,7 +6,7 @@ layout: default
 </header>
 
 <div class="post-subheader">
-  <span class="time">{{ page.date | date_to_string }}, 
+  <span class="time">{{ page.date | date_to_long_string }}, 
     {% capture read_time %}
       {{ page.content | number_of_words | divided_by: 180 }}
       {% endcapture %}
