@@ -10,8 +10,6 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    <!--
-
     {% assign p_array = "" | split:"|"  %}
     {% for project in site.project %}
       {% capture p_slug %}{{ project.url | split:"/" | last }},{{ project.url }}{% endcapture %}
@@ -63,6 +61,6 @@ layout: default
         <hr>
       </div>
       {% endfor %}
-    </div> -->
+    </div> 
   </div> 
 </article>
