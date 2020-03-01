@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seneca And Not Judging a Person By Their Cover (Job)"
+title:  "On not judging a person by their cover (Job)"
 date:   2020-01-11
 categories: [philosophy]
 ---

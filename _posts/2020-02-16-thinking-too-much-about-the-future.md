@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Struggling With The Future and Damaging The Present"
+title:  "On thinking too much about the future"
 date:   2020-02-16
 categories: [philosophy]
 ---
