@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On thinking too much about the future"
+title:  "On thinking too much about the future (Unfinished)"
 date:   2020-02-16
 categories: [philosophy]
 ---
