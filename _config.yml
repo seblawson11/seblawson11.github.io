@@ -37,8 +37,8 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: Categories
-      url: /categories/
+    - text: Category
+      url: /category/
     - text: Projects
       url: /projects/
 
