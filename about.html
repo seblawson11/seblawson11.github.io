@@ -1,0 +1,39 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<!-- This is a collection of random writings about whatever I feel is worth thinking about or discussing. Topics are likely to be eclectic. I apologize for the randomness (and probably infrequency) of the posts, but this is merely due to the fact that a write whenever I have such an urge (usually post-travelling). Writing is a tool that brings clarity to thoughts; I will do my best to work out which of those thoughts are worth sharing and those, upon later reflection, can end as a fleeting moment of nonsense. I promise it will remain less bloggy than a blog and more bloggy than twitter.
+
+In search of answers to big questions
+
+SJL -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Accept a card payment</title>
+    <meta name="description" content="A demo of a card payment on Stripe" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="global.css" />
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="/client.js" defer></script>
+  </head>
+  <body>
+    <!-- Display a payment form -->
+    <form id="payment-form">
+      <div id="card-element"><!--Stripe.js injects the Card Element--></div>
+      <button id="submit">
+        <div class="spinner hidden" id="spinner"></div>
+        <span id="button-text">Pay</span>
+      </button>
+      <p id="card-errors" role="alert"></p>
+      <p class="result-message hidden">
+        Payment succeeded, see the result in your
+        <a href="" target="_blank">Stripe dashboard.</a> Refresh the page to pay again.
+      </p>
+    </form>
+  </body>
+</html>
