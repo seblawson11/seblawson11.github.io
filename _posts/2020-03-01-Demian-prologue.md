@@ -2,7 +2,7 @@
 layout: post
 title:  "On the importance of introspection: through the Prologue of Hesse's Demian"
 date:   2020-03-01
-categories: [philosophy]
+categories: [philosophy, literature]
 ---
 
 
