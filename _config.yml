@@ -41,8 +41,8 @@ urls:
       url: /category/
     - text: Projects
       url: /projects/
-    - text: Meditations
-      url: /meditations/
+    - text: Reflections
+      url: /reflections/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
