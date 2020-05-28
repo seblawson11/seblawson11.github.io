@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On not judging a person by their cover (Job)"
+title:  "On Not Judging a Person by Their Job"
 date:   2020-01-11
 categories: [philosophy]
 ---

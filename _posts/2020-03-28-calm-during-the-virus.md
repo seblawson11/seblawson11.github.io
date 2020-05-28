@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "thoughts on the madness/trying to stay calm"
+title:  "Thoughts on the Madness/Trying to stay Calm"
 date:   2020-03-28
 categories: [philosophy]
 ---
