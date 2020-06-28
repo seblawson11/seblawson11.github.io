@@ -38,7 +38,7 @@ urls:
     - text: About
       url: /about/
     - text: Category
-      url: /category/
+      url: /category/politics
     - text: Projects
       url: /projects/
     - text: Reflections
