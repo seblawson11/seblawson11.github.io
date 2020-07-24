@@ -1,6 +1,6 @@
 body {
   font-family: 'Crimson Text', serif;
-  background-color: #00063B;
+  background-color: #00031A;
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
@@ -46,7 +46,7 @@ a:hover {
 
 /* Layout */
 .main-layout {
-  background: #fff;
+  background: #00031A;
 }
 .sidebar-nav {
   margin: 0;
