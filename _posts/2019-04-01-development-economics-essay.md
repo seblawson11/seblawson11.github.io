@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Assessing the impact of reforestation and renewable energy on economic development in Costa Rica (Essay)"
