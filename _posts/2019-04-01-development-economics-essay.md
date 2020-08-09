@@ -40,7 +40,9 @@ Apergis, N. and Payne, J. (2011). The renewable energy consumption–growth nexu
 
 Bull, G., Bazett, M., Schwab, O., Nilsson, S., White, A. and Maginnis, S. (2006). Industrial forest plantation subsidies: Impacts and implications. Forest Policy and Economics, [online] 9(1), pp.13-31. Available at: https://doi.org/10.1016/j.forpol.2005.01.004.
 
-Fendt, L. (2015). The truth behind Costa Rica's renewable energy | Lindsay Fendt. [online] the Guardian. Available at: https://www.theguardian.com/commentisfree/2015/mar/30/truth-behind-costa-rica-renewable-energy-reservoirs-climate-change.
+Fendt, L. (2015). The truth behind Costa Rica’s renewable energy | Lindsay Fendt. [online] the
+Guardian. Available at: https://www.theguardian.com/commentisfree/2015/mar/30/truth-behind-costa-
+rica-renewable-energy-reservoirs-climate-change.
 
 Le Coq, J., Froger, G., Pesche, D., Legrand, T. and Saenz, F. (2015). Understanding the governance of the Payment for Environmental Services Programme in Costa Rica: A policy process perspective. Ecosystem Services, [online] 16, pp.253-265. Available at: https://doi.org/10.1016/j.ecoser.2015.10.003.
 
