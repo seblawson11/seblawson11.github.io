@@ -8,6 +8,7 @@ categories: [philosophy]
 Boethius’s short and adventurous book ‘the consolations of philosophy’ is an example of philosophy in its most basic orientation and subsequently its most useful, it offers guidance for the inevitable difficulties of life. It is short exploration that uses both poetry and an imagined conversation between Boethius himself and lady philosophy in order to determine how we might live our lives with less of the psychological pitfalls that can so often dampen our experience. At its most powerful it tells us how we might cope with life even when fortune may not be in our favour.
 
 The book is rich in guidance and is the last work of classical stoic philosophy. From it one can extract a number of pertinent lessons for the 21st century. Here are just a few of Boethius’s teachings narrated through the consoling voice of Lady Philosophy:
+<br>
 
 ### 1.	Shared suffering 
 Fortune ensures that we all suffer in ways that are out of our hands. This is an inevitability of life. Buddhism’s first noble truth that ‘life is suffering’, or more accurately that life will involve some suffering, seems a good place to start. Yet in each of us there is a tendency to feel that the cards fortune has dealt us are the cruellest. As Boethius states:
@@ -26,7 +27,7 @@ While the multiplicative effect of spreading fame is more pronounced in modernit
 
 Marcus Aurelius suggested a similar approach – that the thought of death is the best stopper to seeking fame.
 
-Fame is later denounced further:
+Later on in the book fame is denounced again:
 
 >‘fame, in fact, is a shameful thing, and so often deceptive… even if the praise is deserved, it cannot add anything to the philosopher’s feelings: he measures happiness not by popularity, but by the true voice of his own conscience.’.
 
@@ -52,7 +53,6 @@ It should not be discouraged but should merely come with a warning that what one
 
 > ‘there is no doubt then, that these roads to happiness are side-tracks and cannot bring us to the destination they promise. The evils with which they are beset are great, as I will briefly show you. If you try to hoard money, you will have to take it by force. If you want to be resplendent in the dignities of high office, you will have to grovel before the man who bestows it: in your desire to outdo others in high honour you will have to cheapen and humiliate yourself by begging. If you want power, you will have to expose yourself to the plots of your subjects and run dangerous risks. If fame is what you seek, you will find yourself on a hard road, drawn this and that until you are worn with care. Decide to lead a life of pleasure, and there will be no one who will not reject you with scorn as the slave of that most worthless and brittle master, the human body.’
 
-<br>
 <br>
 
 Like most great works each reader will take away something different from Boethius’s consolations. An enthusiast of philosophy hoping to convince a sceptic of the subjects utility in our everyday lives should pass over a copy. There can be no higher praise than that for a work of philosophy. 
