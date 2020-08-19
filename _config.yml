@@ -1,8 +1,8 @@
 title: Seb Lawson
 description: Less bloggy than a blog, more bloggy than twitter.
 github: https://github.com/seblawson11
-about: collection of writings.
-author: Mind Minutes
+about: personal website.
+author: Seb Lawson
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/profile-img.jpg
 email_address: seblawson11@gmail.com
@@ -22,6 +22,8 @@ social:
       link: "https://www.instagram.com/seblawson11/"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/seb-lawson-3b13ab140/"
+    - icon: fa-github
+      link: ""
 
 
 
