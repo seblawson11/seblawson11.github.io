@@ -39,10 +39,12 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: Category
-      url: /category/politics
     - text: Projects
       url: /projects/
+    - text: Essays
+      url: /category/politics
+    - text: Articles
+      url: /articles/
     - text: Reflections
       url: /reflections/
 
