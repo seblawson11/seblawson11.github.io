@@ -1,9 +1,9 @@
----
+<!---
 layout: post
 title:  "On the importance of introspection: through the Prologue of Hesse's Demian"
 date:   2020-03-01
 categories: [philosophy, literature]
----
+--- -->
 
 
 The beautiful and acutely accurate introspection of the youthful mind is no more apparent than in the page and a half of text that constitute the prologue of Herman Hesse’s Demian. Written in first person it promotes the rare thing that people spend so little time on: spiritual self-reflection, whereby we give ourselves permission to ask the most important questions about ourselves fully aware that we might not have the answers, simply because they operate in a realm of our subconscious that we can never truly understand. Yet the elegance with which Hesse writes makes this a problem not worth considering because he sees the value in the process of exploring who we are, fully aware that we may never have a satisfactory answer. We must dare to look inward, because no one else can do it for us, and hence in such attempt we will discover something that no one else could – because they are they and you are you. No one can better undestand us better than ourselves, you have no greater case study for what it means to be alive, and what it means to be a human being than yourself. 
