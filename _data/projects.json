@@ -7,4 +7,11 @@
 		"date": "Feb 2020",
 		"tags": ["Web Development"]
 	},
+	{
+		"slug": "cooperscroftvineyard",
+		"name": "Coopers Croft Vineyard",
+		"image": "placeholder.jpg",
+		"url": "",
+		"tags": ["Web Development"]
+	},
 ]
