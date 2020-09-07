@@ -14,7 +14,7 @@ Late in Aldous Huxley&#39;s life he decided to revisit the themes of his most po
 The essays as a whole should be essential reading for anyone wishing to fend off the dreamy dystopia Huxley envisaged as well as the more rugged dystopia of Orwell&#39;s _1984_. In particular there are two essays titled &#39;Propaganda in a Democratic Society&#39; and &#39;Propaganda in a Dictatorship&#39;, both of which you will find near impossible to argue have aged badly. It is these two essays that are the most revealing as to the current relationship between the elected and the electorate, and the dangers of the increasing access the former has to the latter.
 
 <br>
-<h3>Propaganda in a Democratic Society<h3>
+<h3>Propaganda in a Democratic Society</h3>
 
 Given many in the west live in &#39;Democracies&#39; its best to start with the slightly less unpalatable, propaganda in a democratic society. Huxley believed the role of democratic institutions was to provide social order in partnership with a necessary amount of individual autonomy and freedom, whilst allowing rulers to be subject to the ruled. While this may not always be the most effective form of governance, and includes a lot of abstract terms for qualification, it is very much the depiction of democracy we have settled in our mind. So the question we should be eager to explore is how we might slide from this Spinozian depiction into a more unfavourable political system.
 
