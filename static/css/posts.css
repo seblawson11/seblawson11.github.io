@@ -4,8 +4,8 @@
 
 .post-subheader {
 	margin: 10px;
-	border-top: solid 1px black;
-	border-bottom: solid 1px black;
+	border-top: solid 1px #fff;
+	border-bottom: solid 1px #fff;
 	text-align: center;
 	font-size: 12px;
 }
