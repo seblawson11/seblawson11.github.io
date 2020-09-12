@@ -1,23 +1,16 @@
 ---
 layout: default
+title: Articles
+permalink: /category/politics
 ---
 
 <div id="home">
-  <div class="header-img">
-    <img src="/static/img/courseofempire1.jpg" class="home-img" height="auto" width="500px">
-    <img src="/static/img/courseofempire2.jpg" class="home-img" height="auto" width="500px">
-    <img src="/static/img/courseofempire3.jpg" class="home-img" height="auto" width="500px">
-    <img src="/static/img/courseofempire4.jpg" class="home-img" height="auto" width="500px">
-    <img src="/static/img/courseofempire5.jpg" class="home-img" height="auto" width="500px">
-    <p>When I zoom out a bit I tend to think about the series of paintings titled <i>Course of Empires</i>by Thomas Cole.</p> There seems to be the necessary need for society to operate somewhere between stage 2 and 3 to avoid the entropy of stage 4 - destruction. Perhaps around the 2.7-2.8 mark. This is where the balance is found between staying true to who we are as living beings and where we have come from and coupling it with the creative potential of humanity. To progress we need the latter, to do so wisely we need the former. 
-  </div>
-
   <h1>Posts</h1>
   <hr />
 
   <ol class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }} </a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
 
