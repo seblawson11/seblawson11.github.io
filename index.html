@@ -8,15 +8,7 @@ layout: default
 
   <ol class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }} | {{ page.date | date_to_long_string }}, 
-    {% capture read_time %}
-      {{ page.content | number_of_words | divided_by: 180 }}
-      {% endcapture %}
-      {% if read_time != '0' %}
-        {{ read_time }}
-      {% else %}
-        1
-      {% endif %} min read</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+      <li><a href="{{ post.url }}">{{ post.title }} </a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
   </ol>
 

@@ -7,7 +7,7 @@ categories: [politics]
 
 In politics before we ask what we are hoping to achieve we should first ask what are we hoping to avoid.
 
-As Nassim Taleb writes in _Antifragile_ &quot;In political systems, a good mechanism is one that helps remove the bad guy; it&#39;s not about what to do or who to put in. For the bad guy can cause more harm than the collective actions of good ones.&quot; In the 20th century the political optimism of the enlightenment looked to have faltered and a number of new novels portrayed a society we should be looking to avoid rather than one we should be hoping to form.
+As Nassim Taleb writes in _Antifragile_ &quot;In political systems, a good mechanism is one that helps remove the bad guy; it&#39;s not about what to do or who to put in. For the bad guy can cause more harm than the collective actions of good ones.&quot; In the 20th century the political optimism of the enlightenment looked to have faltered and a number of novels portrayed a society we should be looking to avoid rather than one we should be hoping to form.
 
 Late in Aldous Huxley&#39;s life he decided to revisit the themes of his most popular novel _Brave New World_ through a series of essays titled _Brave New World Revisited_. They provide a salient warning as to the state of western society: that the themes of his novel published 30 years prior seemed to have become more pronounced in everyday life, unfortunately making the novel predictive rather than redemptive. A case could be made that a more potent form of his dystopia is now in play with more opportune mechanisms in place to elect the wrong kind of politician.
 
