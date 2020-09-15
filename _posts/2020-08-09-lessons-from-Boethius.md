@@ -2,7 +2,8 @@
 layout: post
 title:  "Lessons from Boethius"
 date:   2020-08-09
-categories: [philosophy]
+categories: []
+tags: [reflections]
 ---
 
 Boethius’s short and adventurous book ‘the consolations of philosophy’ is an example of philosophy in its most basic orientation and subsequently its most useful, it offers guidance for the inevitable difficulties of life. It is short exploration that uses both poetry and an imagined conversation between Boethius himself and lady philosophy in order to determine how we might live our lives with less of the psychological pitfalls that can so often dampen our experience. At its most powerful it tells us how we might cope with life even when fortune may not be in our favour.
