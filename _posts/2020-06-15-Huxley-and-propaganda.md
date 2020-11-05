@@ -15,7 +15,7 @@ The essays as a whole should be essential reading for anyone wishing to fend off
 
 <br>
 
-###Propaganda in a Democratic Society
+### Propaganda in a Democratic Society
 
 Given many in the west live in &#39;Democracies&#39; its best to start with the slightly less unpalatable, propaganda in a democratic society. Huxley believed the role of democratic institutions was to provide social order in partnership with a necessary amount of individual autonomy and freedom, whilst allowing rulers to be subject to the ruled. While this may not always be the most effective form of governance, and includes a lot of abstract terms for qualification, it is very much the depiction of democracy we have settled in our mind. So the question we should be eager to explore is how we might slide from this Spinozian depiction into a more unfavourable political system.
 
@@ -35,7 +35,7 @@ Huxley finishes the essay with a definition of how a dictator uses propaganda in
 
 <br>
 
-###Propaganda in a Dictatorship
+### Propaganda in a Dictatorship
 
 The question we should ask in the context of modern democratic states is how did Hitler&#39;s political rise reach such a crescendo of power. In addressing this Huxley provides a stark warning about groupthink and the subtlety with which politicians can be found in the hot seat with some effective exploitation of mass psychology. A huge part of Hitler&#39;s artillery for onboarding the masses was his use of technology.
 
@@ -49,7 +49,7 @@ Hitler would not have been in a position of power if it wasn&#39;t for his clear
 
 <br>
 
-###Why should we care?
+### Why should we care?
 
 Looking at propaganda in our own democracies it seems we have plenty of the unhealthy kind, it is certainly difficult to argue they are full of the rational propaganda. Politically we don&#39;t really know where this leaves us. Unfortunately this is kernel to what Huxley is saying, that if we don&#39;t know if we are where we don&#39;t want to be then we may already be there. Not quite QED, but it couldn&#39;t hurt to assume the transition from democracy to dictatorship or some form of authoritarianism may be more subtle than we would expect. These essays matter not because they are proposing a revolutionary new form of politics but more importantly because they are trying to safeguard us against the entropy of democratic politics.
 
