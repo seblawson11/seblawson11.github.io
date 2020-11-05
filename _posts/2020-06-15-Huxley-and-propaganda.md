@@ -5,8 +5,6 @@ date:   2020-06-15
 categories: [politics]
 ---
 
-Huxley and Propaganda
-
 In politics before we ask what we are hoping to achieve we should first ask what are we hoping to avoid.
 
 As Nassim Taleb writes in _Antifragile_ &quot;In political systems, a good mechanism is one that helps remove the bad guy; it&#39;s not about what to do or who to put in. For the bad guy can cause more harm than the collective actions of good ones.&quot; In the 20th century the political optimism of the enlightenment looked to have faltered and a number of novels portrayed a society we should be looking to avoid rather than one we should be hoping to form.
@@ -15,7 +13,9 @@ Late in Aldous Huxley&#39;s life he decided to revisit the themes of his most po
 
 The essays as a whole should be essential reading for anyone wishing to fend off the dreamy dystopia Huxley envisaged as well as the more rugged dystopia of Orwell&#39;s _1984_. In particular there are two essays titled &#39;Propaganda in a Democratic Society&#39; and &#39;Propaganda in a Dictatorship&#39;, both of which you will find near impossible to argue have aged badly. It is these two essays that are the most revealing as to the current relationship between the elected and the electorate, and the dangers of the increasing access the former has to the latter.
 
-Propaganda in a Democratic Society
+<br>
+
+###Propaganda in a Democratic Society
 
 Given many in the west live in &#39;Democracies&#39; its best to start with the slightly less unpalatable, propaganda in a democratic society. Huxley believed the role of democratic institutions was to provide social order in partnership with a necessary amount of individual autonomy and freedom, whilst allowing rulers to be subject to the ruled. While this may not always be the most effective form of governance, and includes a lot of abstract terms for qualification, it is very much the depiction of democracy we have settled in our mind. So the question we should be eager to explore is how we might slide from this Spinozian depiction into a more unfavourable political system.
 
@@ -33,7 +33,9 @@ In Huxley&#39;s dystopian novel _Brave New World_, distractions are used as a po
 
 Huxley finishes the essay with a definition of how a dictator uses propaganda in that they rely &quot;for the most part on repetition, suppression and rationalization – the repetition of catchwords which wish to be accepted as true, the suppression of facts which they wish to be ignored, the arousal and rationalization of passions which may be used in the interests of the party or the state&quot;. Given this feels a little close to the bone for our modern, democratically elected leaders it is slightly unnerving that Huxley was referring to the work of dictators. To see where this might lead us Huxley&#39;s next essay can provide some clarity.
 
-Propaganda in a Dictatorship
+<br>
+
+###Propaganda in a Dictatorship
 
 The question we should ask in the context of modern democratic states is how did Hitler&#39;s political rise reach such a crescendo of power. In addressing this Huxley provides a stark warning about groupthink and the subtlety with which politicians can be found in the hot seat with some effective exploitation of mass psychology. A huge part of Hitler&#39;s artillery for onboarding the masses was his use of technology.
 
@@ -45,7 +47,9 @@ Where Huxley does begin to really strike a chord with modernity is when he moves
 
 Hitler would not have been in a position of power if it wasn&#39;t for his clear understanding of mass psychology, while deranged on other matters his knowledge of how propaganda can appeal to the collective proved unfortunately effective. Of course there were myriad reasons for Hitler&#39;s rise to power, but you cannot deny his understanding of mass behaviour was a key component. The outcome according to Huxley was &quot;herd-poisoning&quot;. Huxley&#39;s solution, much like Thoreau, was that people should learn to _think for themselves_. This may sound too obvious but there is a deeper truth to it in that it is too easy for us to be swayed by the masses before we have thought about an issue ourselves. Thoreau thought it best to serve your own mind first in order to improve civil society. Huxley writes along similar lines but adds the necessity of thinking for oneself is also for protection from the spell that can be cast over the masses, going on to say &quot;mindlessness and moral idiocy are not characteristically human attributes; they are symptoms of herd poisoning&quot;. By Huxley&#39;s reckoning to look at people as simply members of the masses Hitler got his assessment of human nature correct, but to look at people as individuals in their own right he got it sadistically wrong. To understand mass psychology you have to destroy large fragments of individuality because you cannot understand how the masses will behave from a collection of individual psychologies, you have to homogenise to certain extend to partially alleviate this problem of scaling. The fact that he was allowed to prevail should be a warning to us all. The best counter is to respect the fact that we are all fundamentally different, and as Huxley rightly knew democracy is the least-worst political culture we have to accommodate this peacefully.
 
-Why should we care?
+<br>
+
+###Why should we care?
 
 Looking at propaganda in our own democracies it seems we have plenty of the unhealthy kind, it is certainly difficult to argue they are full of the rational propaganda. Politically we don&#39;t really know where this leaves us. Unfortunately this is kernel to what Huxley is saying, that if we don&#39;t know if we are where we don&#39;t want to be then we may already be there. Not quite QED, but it couldn&#39;t hurt to assume the transition from democracy to dictatorship or some form of authoritarianism may be more subtle than we would expect. These essays matter not because they are proposing a revolutionary new form of politics but more importantly because they are trying to safeguard us against the entropy of democratic politics.
 
