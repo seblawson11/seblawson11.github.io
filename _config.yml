@@ -39,10 +39,10 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
-    - text: Articles By Category
+    - text: Writing by Category
       url: /category/politics
-    - text: Reflections
-      url: /reflections/
+    - text: Reading
+      url: /reading/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
