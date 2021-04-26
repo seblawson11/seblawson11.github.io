@@ -5,7 +5,9 @@ date:   2020-11-18
 categories: [philosophy, travel]
 ---
 
-This article was published on medium <a href="https://seblawson11.medium.com/the-therapy-of-nature-e504ac2dcf74 ">here</a>
+<b>This article was published on medium <a href="https://seblawson11.medium.com/the-therapy-of-nature-e504ac2dcf74 ">here</a>
+</b>
+<br>
 
 The story goes that if you are a rocket scientist at a party then you will attract insurmountable attention from those around you. Guests will gravitate towards you, toasting to your noble profession with uncharacteristic and slightly unnerving sincerity. Alternatively, if you are a call-centre worker then people may awkwardly provide a polite enthusiasm with their voice, whilst their face remains frozen from the panic-inducing reality at being stuck in conversation with no work-related questions to ask (of course we should ideally live in a world where people are not defined by their job title but we are unfortunately yet to make this mature transition). Now if you were to take those two individuals and place them in the natural world you will get a very different response. Well in fact you get no response at all because nature doesn’t care. The call-centre worker becomes a human and the rocket scientist becomes a human; both people may be genuinely interesting or uninteresting to the other person, but to nature the whims and idiosyncrasies of both individuals are an irrelevance. We will not be probed on that for which society places great importance.
 
