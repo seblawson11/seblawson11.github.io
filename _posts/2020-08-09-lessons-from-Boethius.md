@@ -40,7 +40,7 @@ Fame is not something we should seek because to do so would be to govern our liv
 ### 3.	On the downside of wealth 
 > my contention is that no good thing harms its owner, a thing which you won’t gainsay. But wealth very often does harm its owners, for all the most criminal elements of the population who are thereby all the more covetous of other people’s property are convinced that they alone are worthy to possess all the gold and precious stones there are.
 
-Wealth is not an inherently bad thing but anyone who wishes to gain wealth in order to liberate themselves should be subsequently wary of the paradox of wealth, in that seeking it to make you more free may well leave you a prisoner to its creation and accumulation. It can leave us with a heavy appetite. 
+Wealth is not an inherently bad thing but anyone who wishes to gain wealth in order to liberate themselves should be subsequently wary of the common paradox of wealth, in that seeking it to make you more free may well leave you a prisoner to its creation and accumulation. It can leave us with a heavy appetite. 
 
 <br>
 
