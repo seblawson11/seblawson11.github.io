@@ -7,7 +7,7 @@ categories: [literature]
 
 Extracts taken from the Penguin Modern Classics series. Translation by Christopher Prendergast.
 
-<h2>Volume One: <i>Swann's Way</i></h2>
+<h3>Volume One: <i>Swann's Way</i></h3>
 <ul>
   <li>Pg 129</li>
   <li>Pgs 212-213</li>
@@ -16,7 +16,7 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
   <li>Pgs 368-369</li>
 </ul>
 <br>
-<h2>Volume Two: <i>In the Shadow of Young Girls in Flower</i></h2>
+<h3>Volume Two: <i>In the Shadow of Young Girls in Flower</i></h3>
 
 (Pg) 14/ when our wish to be touched by nature or art is prompted by the hope of a grandiose revelation, we are loth to let it be replaced by lesser impressions, which might mislead us as to the true value of beauty.
 34/ in politics, it was a mark of superiority rather than inferiority to repeat what everyone else thought
@@ -34,4 +34,4 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
 442/ on imperfection
 448/ when a journey we have longed to make begins to become a reality, and the mind and sensibility are starting to wonder whether it is really worth the effort, the will, which well knows that, if it turned out the journey could not be made, these feckless masters would immediately long for it to become possible again, let’s them loiter in front of the station, having their say, hesitating until the last minute, while it makes sure of buying the tickets and getting us into the train before departure time.
 
-<h3>Volume Three: <i>The Guermantes Way</i></h2>
+<h3>Volume Three: <i>The Guermantes Way</i></h3>
