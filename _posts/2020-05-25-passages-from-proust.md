@@ -1,19 +1,20 @@
 ---
 layout: post
 title:  "Passages from Proust"
-date:   2019-04-01
+date:   2020-05-25
 categories: [literature]
 ---
 
 Extracts taken from the Penguin Modern Classics series. Translation by Christopher Prendergast.
 
 <h2>Volume One: <i>Swann's Way</i></h2>
-
-Pg 129
-Pgs 212-213
-Pgs 240-241
-Pgs 354-355
-Pgs 368-369
+<ul>
+  <li>Pg 129</li>
+  <li>Pgs 212-213</li>
+  <li>Pgs 240-241</li>
+  <li>Pgs 354-355</li>
+  <li>Pgs 368-369</li>
+</ul>
 <br>
 <h2>Volume Two: <i>In the Shadow of Young Girls in Flower</i></h2>
 
