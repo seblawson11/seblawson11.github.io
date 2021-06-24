@@ -55,3 +55,9 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
 <li>552/ the need to talk prevents one not only from listening, but from noticing anything, and in this case the absence of any description of external surroundings is description enough of an internal state</li>
 <li>568/ dinner-parties bore us because our imagination is absent, and reading interests us because it is keeping us company. But the people in question are the same</li>
 </ul>
+
+<br>
+<ul>
+<h3>Volume Four: <i>Sodom and Gomorrah</i></h3>
+<li></li>
+</ul>
