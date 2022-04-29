@@ -9,11 +9,11 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
 
 <h3>Volume One: <i>Swann's Way</i></h3>
 <ul>
-  <li>Pg 129</li>
-  <li>Pgs 212-213</li>
-  <li>Pgs 240-241</li>
-  <li>Pgs 354-355</li>
-  <li>Pgs 368-369</li>
+  <li>(Pg) 129</li>
+  <li>212-213</li>
+  <li>240-241</li>
+  <li>354-355</li>
+  <li>368-369</li>
 </ul>
 <br>
 

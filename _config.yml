@@ -37,12 +37,8 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: Projects
-      url: /projects/
     - text: Writing by Category
       url: /category/politics
-    - text: Reading
-      url: /reading/
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
