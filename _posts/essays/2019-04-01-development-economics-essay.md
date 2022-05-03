@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Assessing the impact of reforestation and renewable energy on economic development in Costa Rica (Essay)"
+title:  "Assessing the impact of reforestation and renewable energy on economic development in Costa Rica | Essay"
 date:   2019-04-01
-categories: [economics]
+categories: [economics, sustainability]
 ---
 
 
@@ -31,8 +31,9 @@ It is clear that an emphasis on renewable energy is better economic than environ
 This is a question of how to use governmental resources to benefit the long-term interest of the country. Both policies will clearly help Costa Rica to decarbonise, yet when focusing on long-term economic development the literature indicates renewable energy is a better designed programme for this. Increasing renewable energy can be considered good economic policy for Costa Rica, despite being contentious environmental policy. By comparison the reforestation programme is first and foremost environmental policy whose benefits are not distributed evenly and appear to negatively impact poorer farmers more than larger landowners making it economically regressive. As a result from an economic development perspective it would be more efficient for Costa Rica to place greater policy emphasis on renewable energy production.
 
 <br>
+<br>
 
-### Bibliography
+### References
 
 Al-mulali, U., Lee, J., Hakim Mohammed, A. and Sheau-Ting, L. (2013). Examining the link between energy consumption, carbon dioxide emission, and economic growth in Latin America and the Caribbean. Renewable and Sustainable Energy Reviews, [online] 26, pp.42-48. Available at: https://doi.org/10.1016/j.rser.2013.05.041.
 
@@ -61,6 +62,3 @@ Sierra, R. and Russman, E. (2006). On the efficiency of environmental service pa
 World Economic Forum. (2019). Costa Rica launches 'unprecedented' push for zero net emissions by 2050. [online] Available at: https://www.weforum.org/agenda/2019/02/costa-rica-launches-unprecedented-push-for-zero-emissions-by-2050/.
 
 Zbinden, S. and Lee, D. (2005). Paying for Environmental Services: An Analysis of Participation in Costa Rica's PSA Program. World Development, [online] 33(2), pp.255-272. Available at: https://doi.org/10.1016/j.worlddev.2004.07.012.
-
-
- 
