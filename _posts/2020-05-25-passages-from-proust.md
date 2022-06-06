@@ -8,7 +8,7 @@ categories: [literature]
 Extracts taken from the Penguin Modern Classics series. Translation by Christopher Prendergast.
 
 <br>
-<i> note: The passages written in italics are not quotes but a reference to the topic of a larger passage </i> 
+<i> note: The passages written in italics are not quotes but a reference to the topic of a larger passage </i>
 
 <h3>Volume One: <i>Swann's Way</i></h3>
 <ul>
@@ -83,4 +83,36 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
 </li>
 <li> 520-21/ <i>the effect of reading and distraction on the passing of the sun </i>
 </li>
+</ul>
+
+<br>
+<ul>
+<h3>Volume Four: <i>Sodom and Gomorrah</i></h3>
+<li>55/... like those people who, not knowing what to talk about, are forever accosting you and naming some common acquaintance, often very vague</li>
+<li>95/ <i>on his change of attitude to Swann (wonderful passage)</i>
+</li>
+<li>154/ the images chosen by memory are as arbitrary, as confined and as elusive as those which imagination had formed and that reality had destroyed. There is no reason why, outside of us, a real place should possess the pictures painted by memory rather than those of our dreams
+</li>
+<li>185/ certain dreams of a shared tenderness, forever floating inside us, readily unite themselves by a sort of affinity to the memory of a woman with whom we have experienced pleasure
+</li>
+<li> 233/ it is human to seek out sorrow and at once be delivered from it
+</li>
+<li> 376/ sleep, which is like a second apartment that we have, into which, abandoning our own, we go in order to sleep. It has its own system of alarms, and we are sometimes brought violently awake there by the sound of a bell, heard with perfect clarity, even though no one has rung
+</li>
+<li> 416/ the question isn't, like for Hamlet, to be or not to be, but to be one of them or not be one of them
+</li>
+<li> 428/ his nature was really like a sheet of paper in which so many folds have been made in every direction that it is impossible to know where you are
+</li>
+<li> 508/ it is often only for want of the creative spirit that we do not go far enough in suffering. And the most terrible reality brings us, at the same time as suffering, the joy of a beautiful discovery, for all that it does is to lend a new and explicit form to what we had long been turning over in our minds without suspecting it
+</li>
+<li> 512/ At many moments in our lives, we would barter the whole of the future against an in itself insignificant power
+</li>
+<li> 520-21/ <i>the effect of reading and distraction on the passing of the sun </i>
+</li>
+</ul>
+
+<br>
+<ul>
+<h3>Volume Five: <i>The Prisoner</i>and<i>The Fugitive</i></h3>
+<li></li>
 </ul>
