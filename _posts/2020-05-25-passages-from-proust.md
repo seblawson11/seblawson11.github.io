@@ -89,5 +89,6 @@ Extracts taken from the Penguin Modern Classics series. Translation by Christoph
 <br>
 <ul>
 <h3>Volume Five: <i>The Prisoner</i> and <i>The Fugitive</i></h3>
-<li></li>
+<li>3/ reality, even if it is inevitable, is not completely predictable; those who learn some correct details about the life of another promptly jump from it to quite incorrect conclusions and see in the newly discovered fact that the explanations for things which in truth are completely unrelated to it</li>
+<li>60/ <i>on Albertine</i></li>
 </ul>
