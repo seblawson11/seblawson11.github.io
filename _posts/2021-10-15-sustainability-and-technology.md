@@ -5,9 +5,7 @@ date:   2021-10-15
 categories: [technology, sustainability]
 ---
 
-<b>This article was published on medium <a href="https://seblawson11.medium.com/sustainability-requires-a-broader-definition-of-technology-ca9e27a9254d">here</a>
-</b>
-<br>
+
 
 
 Trying to build a more sustainable world can feel daunting and full of loose ends. Perhaps that is the problem: we are fixated on using the term build. When we think of building, we think of heavy infrastructure or scaling new technologies from scratch. We do not think of the more subtle solutions of the natural world; a world that does not build but grows and recycles. It adapts.
