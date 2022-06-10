@@ -5,9 +5,6 @@ date:   2021-10-15
 categories: [technology, sustainability]
 ---
 
-
-
-
 Trying to build a more sustainable world can feel daunting and full of loose ends. Perhaps that is the problem: we are fixated on using the term build. When we think of building, we think of heavy infrastructure or scaling new technologies from scratch. We do not think of the more subtle solutions of the natural world; a world that does not build but grows and recycles. It adapts.
 
 Carbon capture technologies have been receiving a lot of attention recently. Orca, the carbon removal plant housed in Iceland and conceived by the Swiss, started its operations in early September. Orca inhales CO2 from the atmosphere, mixes it with water and sends it deep into the earth’s surface to mineralise.
