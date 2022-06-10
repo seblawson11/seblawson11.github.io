@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sustainability requires a broader definition of technology | Article"
+title:  "Sustainability requires a broader definition of technology"
 date:   2021-10-15
 categories: [technology, sustainability]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On the therapy of Nature | Article"
+title:  "On the therapy of Nature"
 date:   2020-11-18
 categories: [philosophy, travel]
 ---
