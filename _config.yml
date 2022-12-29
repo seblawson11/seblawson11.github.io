@@ -39,6 +39,8 @@ urls:
       url: /about/
     - text: Writing by Category
       url: /category/politics
+    - text: Reading
+      url: /reading
 
 url: "https://seblawson11.github.io/"
 baseurl: ""
