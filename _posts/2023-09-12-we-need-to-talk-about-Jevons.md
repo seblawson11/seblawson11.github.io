@@ -2,7 +2,7 @@
 layout: post
 title:  "We need to talk about Jevons: on the paradox of innovation"
 date:   2023-09-12
-categories: [sustainability, technology]
+categories: [sustainability, technology, economics]
 ---
 
 There was an excessively marshalled ritual that took place when I was at school. It was given the rather detoxifying, self-help book type of label: ‘switch-off fortnight’, as if we were all about to go on a meditation retreat or overpay to visit some Swiss alpine spa and have people in angelically white clothing give us numbered scores about our digestive system. The whole event was ironically met with such Draconian enthusiasm by fellow pupils that most of study time would involve switching back on the light after someone decided it wasn’t necessary for you to see your homework. The religious devotion with which people threw themselves into this task hardly reflected how unimportant it actually was. It was a pacified, climate-change version of the Milgram experiment. The whole thing essentially tricked us into thinking it bore some respectable semblance of impact. Which it most certainly did not. But as an isolated event it still lingers in the mind because it portrayed using less as some kind of inconvenient sacrifice. As if using less, in some fundamental way, inhibited life.
