@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024 review of the month"
+title:  "2024 Review of the Year"
 date:   2023-01-06
 categories: [annual review]
 ---
@@ -41,4 +41,4 @@ Person who cut down the Sycamore Gap tree.
 The inside of St Pauls as viewed for the first time at a Carol service.
 
 <b>Destination</b>
-A Waterlogged Marsh belonging to my Great Uncle. I had been there a lot as a child but I had never seen it completely flooded. There was something beautiful about the flat space masking the creeks below. 
+A Waterlogged Marsh belonging to my Great Uncle. I had been there a lot as a child but I had never seen it completely flooded. There was something beautiful about the flat space masking the creeks below.
