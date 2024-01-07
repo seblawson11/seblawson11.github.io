@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "2024 Review of the Year"
-date:   2023-01-06
-categories: [annual review]
+date:   2024-01-06
+categories: [annualreview]
 ---
 
 <b>New film</b>
