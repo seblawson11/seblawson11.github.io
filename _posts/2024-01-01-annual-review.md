@@ -50,7 +50,6 @@ Lark (Bury St Edmunds)
 <br>
 
 <h3><b>Hero</b></h3>
-
 King Charles
 
 <i> Coronation, trolling Rishi Sunak with the Greek tie, amazing reception on a state visit to France and Germany, superb speech at COP. People finally starting to wake up to what he's been saying about the environment for decades.</i>
