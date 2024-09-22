@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2024 Review of the Year"
+title:  "2023 Review of the Year"
 date:   2024-01-06
-categories: [annualreview]
+categories: [annual review]
 ---
 
 <h3><b>New film</b></h3>
@@ -14,7 +14,7 @@ Oppenheimer
 
 12 Angry Men
 
-<i>everyone should watch this given the modern proclivity for presumption of guilt over innocence</i>
+<i>everyone should watch this given the modern substitution of presumption of guilt over innocence</i>
 <br>
 
 <h3><b>Book</b></h3>
