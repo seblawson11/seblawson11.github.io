@@ -41,9 +41,11 @@ Olly's wedding. The whole day.
 <br>
 
 <h3><b>Meal</b></h3>
+Noble Rot Mayfair (Birthday again)
+<br>
 
-Noble Rot (Birthday again)
-
+<h3><b>Wine</b></h3>
+Discovery: Breaky Bottom English Sparkling
 
 <br>
 
@@ -53,12 +55,10 @@ The Man who recites Dante in San Gimignano.
 <br>
 
 <h3><b>Villain</b></h3>
-
 .
 <br>
 
 <h3><b>Discovery</b></h3>
-
 Roberts radio, hedgelaying, Oysters, Samuel Smith's pubs.  
 <br>
 
