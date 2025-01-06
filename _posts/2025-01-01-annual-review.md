@@ -16,8 +16,7 @@ The Life and Death of Colonal Blimp<br>
 <br>
 
 <h3><b>Book</b></h3>
-A Crisis of Culture, <i>Olivier Roy</i><br>
-The Golden Mole, <i>Katherine Rundell</i>
+The World of Yesterday, <i>Stefan Zweig</i><br>
 <br>
 
 <h3><b>Song</b></h3>
