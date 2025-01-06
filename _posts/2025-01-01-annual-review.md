@@ -21,7 +21,7 @@ The Golden Mole, <i>Katherine Rundell</i>
 <br>
 
 <h3><b>Song</b></h3>
-People Watching (Sam Fender)
+My Sweet Lord (George Harrison)
 <br>
 
 <h3><b>Artist</b></h3>
@@ -38,6 +38,7 @@ Noble Rot Mayfair (Birthday again)
 
 <h3><b>Wine</b></h3>
 Discovery: Breaky Bottom English Sparkling
+Best: Chateau Margaux 2004
 <br>
 
 <h3><b>Hero</b></h3>
@@ -45,7 +46,7 @@ The Man who recites Dante in San Gimignano.
 <br>
 
 <h3><b>Villain</b></h3>
-Parking apps
+Parking apps. Paris Olympic opening ceremony organiser.
 <br>
 
 <h3><b>Discovery</b></h3>
@@ -53,4 +54,4 @@ Roberts radio, hedgelaying, Oysters, Samuel Smith's pubs, Second hand bookshop i
 <br>
 
 <h3><b>Destination</b></h3>
-The Walk from Borrowdale to Greater Langdale. <i>(Honourable mentions to the Corfu coastline and The Inn at Whitewell) </i>
+The Walk from Borrowdale to Greater Langdale (Skate Pass). <i>(Honourable mentions to the Corfu coastline and The Inn at Whitewell) </i>
