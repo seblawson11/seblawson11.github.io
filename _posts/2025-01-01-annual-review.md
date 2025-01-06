@@ -16,7 +16,7 @@ The Life and Death of Colonal Blimp
 <br>
 
 <h3><b>Book</b></h3>
-A Crisis of Culture, <i>Olivier Roy</i>
+A Crisis of Culture, <i>Olivier Roy</i><br>
 The Golden Mole, <i>Katherine Rundell</i>
 <br>
 
@@ -37,7 +37,7 @@ Noble Rot Mayfair (Birthday again)
 <br>
 
 <h3><b>Wine</b></h3>
-Discovery: Breaky Bottom English Sparkling
+Discovery: Breaky Bottom English Sparkling<br>
 Best: Chateau Margaux 2004
 <br>
 
