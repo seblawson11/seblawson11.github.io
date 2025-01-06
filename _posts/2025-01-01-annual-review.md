@@ -17,7 +17,6 @@ The Life and Death of Colonal Blimp<br>
 
 <h3><b>Book</b></h3>
 The World of Yesterday, <i>Stefan Zweig</i><br>
-<br>
 
 <h3><b>Song</b></h3>
 My Sweet Lord (George Harrison)
