@@ -6,12 +6,12 @@ categories: [annual review]
 ---
 
 <h3><b>New film</b></h3>
-The Holdovers
+The Holdovers<br>
 <i>A new Christmas classic, with a 1970s/80s aesthetic. Just great writing and acting. Reminds you what a film should be able to do.</i>
 <br>
 
 <h3><b>Old film</b></h3>
-The Life and Death of Colonal Blimp
+The Life and Death of Colonal Blimp<br>
 <i>A entertaining history of the British Army and the changing face of war told through the lens of one unwavering, principled soldier.</i>
 <br>
 
