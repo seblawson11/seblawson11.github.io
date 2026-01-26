@@ -2,7 +2,7 @@
 layout: post
 title:  "2023 Review of the Year"
 date:   2024-01-06
-categories: [annual review]
+categories: [annual-review]
 ---
 
 <h3><b>New film</b></h3>
@@ -47,7 +47,6 @@ The Circus (Bath)
 
 Lark (Bury St Edmunds)
 
-<br>
 
 <h3><b>Hero</b></h3>
 King Charles

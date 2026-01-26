@@ -2,7 +2,7 @@
 layout: post
 title:  "2025 Review of the Year"
 date:   2026-01-01
-categories: [annual review]
+categories: [annual-review]
 ---
 
 <h3><b>New film</b></h3>
